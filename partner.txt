@@ -5,14 +5,26 @@ add line in gcg
 add line
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b0c067dfd1567f2b82b0e27e0978645f800fad29
+=======
+add line
+>>>>>>> 597f91e66539a4c3cc6c4444ef55ebc1bb2536ad
+=======
+>>>>>>> 4910f597d631ec14f23b3a7640c03b5b4a331b2d
 add line
 add line
 =======
 >>>>>>> b0c067dfd1567f2b82b0e27e0978645f800fad29
 >>>>>>> a848d79ce519c44e613ba90ffa7a9b0c98bbded1
+<<<<<<< HEAD
 =======
 >>>>>>> b0c067dfd1567f2b82b0e27e0978645f800fad29
 =======
 add line
 >>>>>>> 597f91e66539a4c3cc6c4444ef55ebc1bb2536ad
 >>>>>>> dbd65ee752603cb50793b80394f6f2c5c9013e2f
+=======
+>>>>>>> f26f1996cae053fdc10316c9af803d3735121a75
+>>>>>>> 4910f597d631ec14f23b3a7640c03b5b4a331b2d
