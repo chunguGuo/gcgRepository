@@ -3,4 +3,8 @@ i am your partner
 add line in gcg
 =======
 add line
+<<<<<<< HEAD
 >>>>>>> b0c067dfd1567f2b82b0e27e0978645f800fad29
+=======
+add line
+>>>>>>> 597f91e66539a4c3cc6c4444ef55ebc1bb2536ad
