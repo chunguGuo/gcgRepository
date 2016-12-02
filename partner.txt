@@ -1,4 +1,11 @@
 i am your partner
+<<<<<<< HEAD
+add line in gcg
+=======
+add line
+<<<<<<< HEAD
 add line
 add line
-add line
+=======
+>>>>>>> b0c067dfd1567f2b82b0e27e0978645f800fad29
+>>>>>>> a848d79ce519c44e613ba90ffa7a9b0c98bbded1
